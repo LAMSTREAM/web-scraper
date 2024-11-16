@@ -1,4 +1,3 @@
-# Full Stack Web Application
 
 This project consists of two main parts:
 
@@ -13,3 +12,8 @@ This project consists of two main parts:
 ## Setup Instructions
 
 For detailed setup instructions, please refer to the respective repositories for the backend and frontend.
+
+
+## Preview
+
+<img width="1064" alt="image" src="https://github.com/user-attachments/assets/7a46d7ec-5811-4746-9244-df85c9a55be0">
